@@ -1,0 +1,7 @@
+base   schemadata
+author Deniz Kilic
+email  fz.deniz.kilic@gmail.com
+date   2020-03-23
+name   schemadata plugin
+desc   A Plugin to use the Content Negotiation Feature of datacite to get the schema.org metadata in json+ld format.
+url    https://www.example.com
