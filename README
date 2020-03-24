@@ -1,4 +1,5 @@
 schemadata Plugin for DokuWiki
+=======================
 
 A Plugin to use the Content Negotiation Feature of datacite ot get the schema.org metadata in json+ld format.
 
